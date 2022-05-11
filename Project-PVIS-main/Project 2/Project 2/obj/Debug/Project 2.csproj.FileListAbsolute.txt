@@ -1,0 +1,95 @@
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormLogin.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormHome.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormInputData.resources
+C:\KULIAH SEM 4\Visual\Latihan 2022\Project 2\Project 2\obj\Debug\Project_2.FormCekData.resources
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\MySql.Data.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\Google.Protobuf.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\ZstdNet.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\System.Memory.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\System.Buffers.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\bin\Debug\MySql.Data.xml
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.exe.config
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormLogin.resources
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormHome.resources
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormInputData.resources
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormCekData.resources
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Tugas\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\MySql.Data.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\ZstdNet.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\bin\Debug\MySql.Data.xml
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.exe.config
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormLogin.resources
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormHome.resources
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormInputData.resources
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormCekData.resources
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\HP\Downloads\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.pdb
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\MySql.Data.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\Google.Protobuf.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\ZstdNet.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\System.Memory.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\System.Buffers.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\bin\Debug\MySql.Data.xml
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.exe.config
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormLogin.resources
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormHome.resources
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormInputData.resources
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.FormCekData.resources
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.csproj.CopyComplete
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Tugas\pvis\Project-PVIS-main\Project 2\Project 2\obj\Debug\Project 2.pdb
